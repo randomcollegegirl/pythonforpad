@@ -1,19 +1,19 @@
 dependencies:
- - python=3
- - pip:
-  - spacy
-  - ipykernel
-  - scipy
-  - numpy
-  - scikit-learn
-  - matplotlib
-  - pandas
-  - thinc
-  - tadm
-  - sklearn
-  - Pillow
-  - ×gboost
-  - sympy
-  - requests
-  - lightebm
-  - catboost
+- python=3
+- pip:
+ - spacy
+ - ipykernel
+ - scipy
+ - numpy
+ - scikit-learn
+ - matplotlib
+ - pandas
+ - thinc
+ - tadm
+ - sklearn
+ - Pillow
+ - ×gboost
+ - sympy
+ - requests
+ - lightebm
+ - catboost
