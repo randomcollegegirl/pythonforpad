@@ -1,0 +1,1 @@
+python3 -m pip install numpy scipy pandas matplotlib scikit-learn statsmodels graphviz
